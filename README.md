@@ -3,7 +3,7 @@
 
 Before listing the articles, we need to define what is API Economy. The below definition was constructed while writing API Economy 101 book (“API -talous 101) in Finnish during Nov 2017 — March 2018. Here’s free translation of the definition.
 
-Maintaining the list is part of [API Economy Hacklab activities](https://medium.com/api-economy-hacklab/api-economy-articles-1322ec5b8ca). 
+Maintaining [the list](https://github.com/apieconomyhacklab/bibliography/blob/master/api-economy-bibliography.bib) is part of [API Economy Hacklab activities](https://medium.com/api-economy-hacklab/api-economy-articles-1322ec5b8ca). 
 
 <pre>
 In API Economy company utilizes resources efficiently and quickly to create added 
@@ -23,7 +23,7 @@ In brief, services are offered from businesses to developers
 
 ## Curated constantly updated list
 
-The bibtex file contains a few selected API Economy related articles. Most of the articles are not open access. Use https://en.m.wikipedia.org/wiki/Sci-Hub to bypass paywalls.
+[The bibtex file](https://github.com/apieconomyhacklab/bibliography/blob/master/api-economy-bibliography.bib) contains a few selected API Economy related articles. Most of the articles are not open access. Use https://en.m.wikipedia.org/wiki/Sci-Hub to bypass paywalls.
 
 
 ## Missing article?
