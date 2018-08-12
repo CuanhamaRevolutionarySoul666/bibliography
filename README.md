@@ -3,6 +3,8 @@
 
 Before listing the articles, we need to define what is API Economy. The below definition was constructed while writing API Economy 101 book (“API -talous 101) in Finnish during Nov 2017 — March 2018. Here’s free translation of the definition.
 
+Maintaining the list is part of [API Economy Hacklab activities](https://medium.com/api-economy-hacklab/api-economy-articles-1322ec5b8ca). 
+
 <pre>
 In API Economy company utilizes resources efficiently and quickly to create added 
 value for own customers. These resources can be for example data or function 
@@ -26,4 +28,4 @@ The bibtex file contains a few selected API Economy related articles. Most of th
 
 ## Missing article?
 
-Article missing? Raise an issue. Articles should be academic in nature.
+Article missing? [Raise an issue](https://github.com/apieconomyhacklab/bibliography/issues). Articles should be academic in nature.
