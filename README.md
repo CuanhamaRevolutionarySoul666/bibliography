@@ -1,5 +1,6 @@
 # Curated list of API Economy books and articles
 
+![API Economy Hacklab](https://raw.githubusercontent.com/apieconomyhacklab/bibliography/master/images/header.png)
 
 Before listing the articles, we need to define what is API Economy. The below definition was constructed while writing API Economy 101 book (“API -talous 101) in Finnish during Nov 2017 — March 2018. Here’s free translation of the definition.
 
