@@ -2,9 +2,10 @@
 
 ![API Economy Hacklab](https://raw.githubusercontent.com/apieconomyhacklab/bibliography/master/images/header.png)
 
+Maintaining [the list](https://github.com/apieconomyhacklab/bibliography/blob/master/api-economy-bibliography.bib) is part of [API Economy Hacklab activities](https://medium.com/api-economy-hacklab/api-economy-articles-1322ec5b8ca). 
+
 Before listing the articles, we need to define what is API Economy. The below definition was constructed while writing API Economy 101 book (“API -talous 101) in Finnish during Nov 2017 — March 2018. Here’s free translation of the definition.
 
-Maintaining [the list](https://github.com/apieconomyhacklab/bibliography/blob/master/api-economy-bibliography.bib) is part of [API Economy Hacklab activities](https://medium.com/api-economy-hacklab/api-economy-articles-1322ec5b8ca). 
 
 <pre>
 In API Economy company utilizes resources efficiently and quickly to create added 
